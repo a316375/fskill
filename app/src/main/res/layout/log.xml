@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!--<layout xmlns:android="http://schemas.android.com/apk/res/android">--><!--<data class="GlogBindin">--><!--<variable--><!--name="Glog"--><!--type="xyxgame.fskill.game.Glog" />--><!--</data>-->
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="20dp">
+
+    <TextView
+        android:id="@+id/log_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="游戏开始了" />
+
+</RelativeLayout><!--</layout>-->
